@@ -1,4 +1,4 @@
-# Handson guide
+# Hands-on guide
 [Wiki](/ushiront/kintoneCRM/wiki)
 
 # Website
