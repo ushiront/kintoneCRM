@@ -1,5 +1,5 @@
 # Hands-on guide
-[Wiki](/ushiront/kintoneCRM/wiki)
+[Wiki](https://github.com/ushiront/kintoneCRM/wiki)
 
 # Website
 * kintone [JP](https://kintone.cybozu.com/jp/)|[US](https://www.kintone.com/)
